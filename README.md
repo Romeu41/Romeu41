@@ -40,7 +40,7 @@
   <img align="center" alt="Romeu-javascript" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romeu-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Romeu-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-plain.svg">
+   <img align="center" alt="Romeu-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node.js/node-plain.svg">
   <img align="center" alt="Romeu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
