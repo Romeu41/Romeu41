@@ -11,7 +11,7 @@
 
 | Especialidade | Tecnologias |
 | :--- | :--- |
-| **Backend** | `C#` `.NET` `ASP.NET Core` |
+| **Backend** | `C#` `.NET` `ASP.NET Core` `Node.js` |
 | **Frontend** | `Angular` `React JS` `JavaScript` `TypeScript` |
 | **Bancos de Dados** | `SQL Server` |
 | **Cloud & DevOps**| `Azure` `Git & GitHub` |
