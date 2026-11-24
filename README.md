@@ -1,34 +1,40 @@
-## Olá! Eu sou Romeu Lima.
-💻 **Desenvolvedor Full-Stack**.
---
-### 🚀 Sobre Mim
-* 🔭 **Atualmente:** Trabalho com desenvolvimento Full-Stack.
-* 🌱 **Aprendizagem:** Focado em aprofundar conhecimentos em **Angular** e Arquitetura de Software.
-* 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas.
-* 💬 **Pronomes:** ele/dele
----
-### 🛠️ Tecnologias & Ferramentas
+## Hi there! I'm Romeu Lima 👋
+💻 **Full-Stack Software Engineer**
 
-| Especialidade | Tecnologias |
+---
+
+### 🚀 About Me
+* 🔭 **Currently:** Working as a **Full-Stack Developer**, building and modernizing enterprise web applications and REST APIs.
+* 🌱 **Learning:** Focused on deepening my expertise in **Angular**, **Software Architecture** (Clean Architecture, SOLID, Microservices), and cloud solutions.
+* 🎓 **Education:** Pursuing a degree in **Systems Analysis and Development**.
+* 🌍 **Location:** Brazil — Open to international remote roles and relocation opportunities.
+* 💬 **Pronouns:** he/him
+* 📫 **Contact:** [romeulimaa41@gmail.com](mailto:romeulimaa41@gmail.com) | [LinkedIn](https://www.linkedin.com/in/romeu-manoel-881296201)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
 | :--- | :--- |
-| **Backend** | `C#` `.NET` `ASP.NET Core` `Node.js` |
-| **Frontend** | `Angular` `React JS` `JavaScript` `TypeScript` |
-| **Bancos de Dados** | `SQL Server` |
-| **Cloud & DevOps**| `Azure` `Git & GitHub` |
+| **Backend** | `C#` `.NET (Core / 6 / 8)` `ASP.NET Core` `Java` `Spring Boot` `Node.js` `Python` |
+| **Frontend** | `Angular` `React` `TypeScript` `JavaScript` |
+| **Databases & Messaging** | `SQL Server` `PostgreSQL` `MongoDB` `RabbitMQ` |
+| **Cloud & DevOps** | `Azure` `AWS` `Docker` `Git & GitHub` `GitLab CI/CD` |
 
 ---
 
-### 📚 Certificações em Destaque
-* **C# Completo e Profissional**
+### 📚 Featured Certifications
+* **C# Complete and Professional** (*C# Completo e Profissional*)
 * **React JS and .NET Core Web API Full Stack Master Course**
-* **Arquitetura .NET:** Crie Sistemas com Backend e Frontend em C#
+* **.NET Architecture:** Building Systems with Backend and Frontend in C# (*Arquitetura .NET*)
 
 ---
 
-### 🌎 Idiomas
-* **Português:** Nativo
-* **Espanhol:** Avançado
-* **Inglês:** Básico a Intermediário
+### 🌎 Languages
+* **Portuguese:** Native
+* **Spanish:** Full Professional Proficiency
+* **English:** Intermediate (B1)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Romeu-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
@@ -43,10 +49,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
    <img align="center" alt="Romeu-node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Romeu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-### 📫 Conecta-te Comigo
-
-Aberto a novos desafios, projetos e oportunidades de colaboração!
  
 <div>  
   <a href = "mailto:romeulimaa41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
